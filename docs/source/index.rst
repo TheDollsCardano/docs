@@ -13,13 +13,6 @@ The Dolls project was developed with passion and creativity, leveraging the Card
 
 We invite you to explore the world of The Dolls and become part of this exciting adventure. Join us in the search for exclusive digital art and be amazed by the endless possibilities that our NFT ecosystem has to offer.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
