@@ -1,4 +1,4 @@
-.. image:: /images/the_dolls_logo_1000x1000.png
+.. image:: /images/the_dolls_logo_300x193.png
    :alt: Texto alternativo para a imagem
    :width: 300px
    :align: center
