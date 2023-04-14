@@ -1,4 +1,4 @@
-API
+Voodoo Collection Narrative
 ===
 
 .. autosummary::
