@@ -1,5 +1,5 @@
 .. figure:: /docs/images/the_dolls_logo_300x193.png
-   :width: 300
+   :alt: The Dolls Logo
    :align: center
 
 
