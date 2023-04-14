@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'The Dolls · CNFT'
+project = 'The Dolls Cardano'
 copyright = '2023, The Dolls Cardano'
 author = 'Doc Team'
 
@@ -26,6 +26,7 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+html_static_path = ['images']
 
 # -- Options for HTML output
 
