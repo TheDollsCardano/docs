@@ -13,5 +13,6 @@ Contents
 
 .. toctree::
 
+   introducion
    creative_spark
    voodoo_collection_narrative
