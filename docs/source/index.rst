@@ -3,7 +3,7 @@ The Dolls Cardano documentation.
 
 Introducing **The Dolls**: A Universe of Unique and Exclusive NFTs in the **Cardano Community**.
 
-Welcome to The Dolls, an exciting NFT project in the growing Cardano community! In this project, we explore the intersection between digital art, serial collections, and procedurally generated NFTs, creating a captivating and diverse universe of unique characters called Dolls. Each Doll is a unique work of art, designed to attract collectors and enthusiasts of digital art who are looking for exclusive pieces for their collections and also to use as distinct profile pictures (PFPs).
+We explore the intersection between digital art, serial collections, and procedurally generated NFTs, creating a captivating and diverse universe of unique characters called Dolls. Each Doll is a unique work of art, designed to attract collectors and enthusiasts of digital art who are looking for exclusive pieces for their collections and also to use as distinct profile pictures (PFPs).
 
 The Dolls is a multi-collection of NFTs. Throughout our journey, our community will have access to collections that interact within the Dolls ecosystem in one or more converging narratives, expanding the ecosystem and providing holders with ongoing opportunities to discover new NFTs, interact with the community, increase value for their collections, and complete sets of their favorite art.
 
