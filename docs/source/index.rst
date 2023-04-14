@@ -1,4 +1,4 @@
-Welcome to The Dolls documentation!
+The Dolls Cardano documentation.
 ===================================
 
 Introducing **The Dolls**: A Universe of Unique and Exclusive NFTs in the **Cardano Community**.
