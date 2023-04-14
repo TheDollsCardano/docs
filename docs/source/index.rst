@@ -22,8 +22,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   Creative Spark
-   Voodoo Collection Narrative
-   
-   
+   creative_spark
+   voodoo_collection_narrative
