@@ -23,5 +23,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Creative Spark
+   Voodoo Collection Narrative
+   
