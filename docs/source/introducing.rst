@@ -1,7 +1,7 @@
-The Dolls Cardano documentation.
+Introducing
 ===================================
 
-Introducing **The Dolls**: A Universe of Unique and Exclusive NFTs in the **Cardano Community**.
+**The Dolls**: A Universe of Unique and Exclusive NFTs in the **Cardano Community**.
 
 We explore the intersection between digital art, serial collections, and procedurally generated NFTs, creating a captivating and diverse universe of unique characters called Dolls. Each Doll is a unique work of art, designed to attract collectors and enthusiasts of digital art who are looking for exclusive pieces for their collections and also to use as distinct profile pictures (PFPs).
 
