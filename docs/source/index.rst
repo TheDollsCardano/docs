@@ -1,4 +1,4 @@
-.. image:: /images/the_dolls_logo_300x193.png
+.. image:: docs/docs/images/the_dolls_logo_300x193.png
    :alt: The Dolls Cardano
    :width: 300px
    :align: center
