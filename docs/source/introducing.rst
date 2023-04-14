@@ -10,7 +10,7 @@ The Dolls is a multi-collection of NFTs. Throughout our journey, our community w
 .. image:: /docs/images/logo_the_dolls_icon.png
    :alt: icon
    :width: 200px
-   :align: center
+   :align: right
    
 By acquiring a Doll, you not only become part of a vibrant and growing community, but you also invest in a collection of digital art, with plans for constant expansion.
 
