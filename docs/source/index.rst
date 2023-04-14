@@ -8,11 +8,12 @@
 
    This project is under active development.
 
+
 Contents
 --------
 
 .. toctree::
 
-   introduction
+   introducing
    creative_spark
    voodoo_collection_narrative
