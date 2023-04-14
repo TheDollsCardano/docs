@@ -1,5 +1,5 @@
 
-.. figure:: /Logo_The_Dolls.png
+.. figure:: /_static/Logo_The_Dolls.png
    :alt: The Dolls Logo
    :align: center
 
