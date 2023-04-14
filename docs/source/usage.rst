@@ -1,34 +1,15 @@
-Usage
+Creative Spark
 =====
 
-.. _installation:
+.. _inspiration:
 
-Installation
+Inspiration
 ------------
 
-To use Lumache, first install it using pip:
+The **The Dolls** moniker embodies our vision to create a variety of NFT collections featuring diverse dolls and figures, sparking engagement and curiosity in the realms of gaming, technology, and collectibles.
 
-.. code-block:: console
+With the launch of our "Voodoo" series, we delve into the enigmatic world of Voodoo dolls, offering NFT collectors a captivating and thrilling addition to their portfolios.
 
-   (.venv) $ pip install lumache
+Our creative spark is fueled by the desire to uncover the mysterious and elusive allure of Voodoo practices worldwide.
 
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+The distinct and mystifying appearance of Voodoo dolls presents an ideal canvas for crafting exclusive and one-of-a-kind NFTs that pique the interest of NFT aficionados.
