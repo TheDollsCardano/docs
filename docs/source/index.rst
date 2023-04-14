@@ -22,7 +22,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
 
    creative_spark
    voodoo_collection_narrative
