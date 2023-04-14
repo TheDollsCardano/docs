@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'The Dolls · CNFT'
-copyright = '2023, The Dolls'
+copyright = '2023, The Dolls Cardano'
 author = 'Doc Team'
 
 release = '0.1'
