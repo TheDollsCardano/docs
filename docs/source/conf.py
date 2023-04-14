@@ -30,7 +30,6 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-    'navigation_depth': 2,
     'titles_only': True,
 
 # -- Options for EPUB output
